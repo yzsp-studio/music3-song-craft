@@ -1,0 +1,15 @@
+display-name-zh: 曲匠工坊
+version: 0.1.0
+tag-en: "AI Music / Songwriting"
+tag-cn: "AI 音乐 / 歌曲创作"
+complete-tags-en:
+  - "AI Music / Songwriting"
+complete-tags-cn:
+  - "AI 音乐 / 歌曲创作"
+summary-en: "Prompt and lyric-structure optimizer for 本平台 Music 3.0: turns lyric drafts and creative intents into generation-ready lyrics with official section tags, bilingual Structured Caption style prompts, and validation reports."
+summary-cn: "本平台 Music 3.0 提示词与歌词结构优化器：把歌词草稿与创作意图加工为带官方段落标签的优化歌词、中英双语结构化风格提示词与校验报告"
+desc-en: "A local skill for creating songs with 本平台 Music 3.0. It enforces official rules (14 section tags, 3500/2000 character limits, 5-minute cap, syllable placeholders, no voice cloning), restructures lyrics without rewriting content, writes five-element Structured Caption prompts (genre, tempo/key, emotional arc, vocal, instrumentation and mix) in Chinese and English, estimates duration from character counts, and validates every output with FAIL_* codes before generation."
+desc-cn: "用于 本平台 Music 3.0 歌曲创作的本地技能。严格执行官方规则（14 种段落标签、3500/2000 字符上限、5 分钟上限、非语言音节占位、无音色复刻），在不改写词意的前提下重组歌词结构，按五要素（曲风、速度/拍号/调性、情绪弧线、人声特质、配器与混音质感）撰写中英双语 Structured Caption 风格提示词，按字符数估算成曲时长，并在生成前用 FAIL_* 失败码逐项校验全部输出。"
+author-en: "本平台"
+author-cn: "本平台"
+source: official
